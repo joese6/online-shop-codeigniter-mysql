@@ -7,7 +7,8 @@ Aplikasi toko online berbasis web ini menggunakan framework codeigniter 3.1.11 y
 # Created by :
 - Zohan Fachrullwahab
 
-# Referensi : Channel Youtube Framework Indonesia
+# Referensi : 
+- Channel Youtube Framework Indonesia
 
 # Info lebih lengkap
 - [x] Facebook : cahnganjuk
